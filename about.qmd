@@ -1,0 +1,10 @@
+---
+title: "About me"
+echo: false
+---
+
+This is the page where I talk about myself. This wouldn't be long.
+
+```{r}
+print("I almost forgot - JC can do martial arts!")
+```

@@ -1,0 +1,10 @@
+---
+title: "Hi! My name is JC."
+---
+
+Welcome to JC's personal website. I haven't figured out what I want to do with this website yet.
+
+```{r}
+data("iris")
+head(iris, 5)
+```
